@@ -5,7 +5,7 @@
 
 /**
  * main - prints exactly and that piece of art is useful
- 
+ *
  * Return: Always 0 (Success)
  */
 

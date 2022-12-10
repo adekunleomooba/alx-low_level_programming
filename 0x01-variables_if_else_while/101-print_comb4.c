@@ -23,17 +23,17 @@ int main(void)
 					putchar(tens);
 					putchar(ones);
 					if (!(ones == '9' && hundreds == '7' && 
-								tens == '8')) /*adds commas and spaces*/
+						tens == '8')) /*adds commas and spaces*/
 					{
 						putchar(',');
 						putchar(' ');
 					}
-				}
-			}
-		}
-	}
-	putchar('\n');
+					}
+					}
+					}
+					}
+				putchar('\n');
 
-	return (0);
+				return (0);
 
 }		
